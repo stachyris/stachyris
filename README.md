@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 I am a bird enthusiast turned researcher. I have been fascinated by birds, and somehow, independently fascinated by biomolecules for as long as I can remember. My research mainly comprises of Biogeography, Phylogenomics and demographic histories of the Peninsula Indian birds. 
 
