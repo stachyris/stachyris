@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I am a Project Associate at the Indian Institute of Science Education and Research in Tirupati, India. My core research interests include Phylogenomics, Systematics and Biogeography. I am currently involved in a project aiming to understand the historical population trends and the role of climate cycles affecting the small ranged birds endemic to a single mountain top. He enjoys birding and contributing to open research and Wikimedia Commons when not in the lab. 
+I am a Project Associate at the Indian Institute of Science Education and Research in Tirupati, India. My core research interests include Phylogenomics, Systematics and Biogeography. I am currently involved in a project aiming to understand the historical population trends and the role of climate cycles affecting the endemic birds from tropical skyisland. He enjoys birding and contributing to open research and Wikimedia Commons when not in the lab. 
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0001-6186-9250)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-gray?style=flat-square&logo=GoogleScholar)](https://scholar.google.com/citations?hl=en&pli=1&user=cPIH1ioAAAAJ)
